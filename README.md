@@ -21,7 +21,33 @@
 
 ## Contents
 
-- TBD
+- Lexing
+  - Lexical Analysis
+  - Defining Tokens
+  - The Lexer
+  - Extensions
+- Parsing
+  - Parsers
+  - Statements
+  - Expressions
+  - Read-Parse-Print-Loop
+- Evaluation
+  - Giving Meaning to Symbols
+  - Strategies of Evaluation
+  - A Tree-Walking Interpreter
+  - Representing Objects
+  - Evaluating Expressions
+  - Conditionals
+  - Return Statements
+  - Error Handling
+  - Bindings & The Environment
+  - Functions & Function Calls
+- Extensions
+  - Data Types & Functions
+  - Strings
+  - Built-in Functions
+  - Array
+  - Hashes
 
 ## How To Contribute
 
