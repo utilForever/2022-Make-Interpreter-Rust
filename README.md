@@ -21,33 +21,58 @@
 
 ## Contents
 
-- Lexing
-  - Lexical Analysis
-  - Defining Tokens
-  - The Lexer
+- Week 0 (3/27)
+  - Introduction
+- Week 1 (3/27)
+  - A Tour of Rust, Part 1
+  - Assignment #1
+- Week 2 (4/10)
+  - A Tour of Rust, Part 2
+  - Assignment #2
+- Week 3 (4/24)
+  - Lexing
+    - Lexical Analysis
+    - Defining Tokens
+    - The Lexer
+    - Extensions
+  - Assignment #3
+- Week 4 (5/8)
+  - Parsing
+    - Parsers
+    - Statements
+  - Assignment #4    
+- Week 5 (5/22)
+  - Parsing
+    - Expressions
+    - Read-Parse-Print-Loop
+  - Assignment #5
+- Week 6 (6/5)
+  - Evaluation
+    - Giving Meaning to Symbols
+    - Strategies of Evaluation
+    - A Tree-Walking Interpreter
+    - Representing Objects
+    - Evaluating Expressions
+  - Assignment #6
+- Week 7 (6/19)  
+  - Evaluation
+    - Conditionals
+    - Return Statements
+    - Error Handling
+    - Bindings & The Environment
+    - Functions & Function Calls
+  - Assignment #7
+- Week 8 (7/3)
   - Extensions
-- Parsing
-  - Parsers
-  - Statements
-  - Expressions
-  - Read-Parse-Print-Loop
-- Evaluation
-  - Giving Meaning to Symbols
-  - Strategies of Evaluation
-  - A Tree-Walking Interpreter
-  - Representing Objects
-  - Evaluating Expressions
-  - Conditionals
-  - Return Statements
-  - Error Handling
-  - Bindings & The Environment
-  - Functions & Function Calls
-- Extensions
-  - Data Types & Functions
-  - Strings
-  - Built-in Functions
-  - Array
-  - Hashes
+    - Data Types & Functions
+    - Strings
+    - Built-in Functions
+  - Assignment #8
+- Week 9 (8/17)
+  - Extensions  
+    - Array
+    - Hashes
+  - Assignment #9
 
 ## How To Contribute
 
