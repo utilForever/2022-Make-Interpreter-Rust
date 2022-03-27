@@ -68,7 +68,7 @@
     - Strings
     - Built-in Functions
   - Assignment #8
-- Week 9 (8/17)
+- Week 9 (7/17)
   - Extensions  
     - Array
     - Hashes
