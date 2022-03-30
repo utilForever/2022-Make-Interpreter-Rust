@@ -23,7 +23,7 @@
 
 - Week 0 (3/27) [[Lecture]](./1%20-%20Lecture/220327%20-%20Make%20Interpreter%20Rust%2C%20Week%200.pdf)
   - Introduction
-- Week 1 (3/27) [[Lecture]](./1%20-%20Lecture/220327%20-%20Make%20Interpreter%20Rust%2C%20Week%201.pdf)
+- Week 1 (3/27) [[Lecture]](./1%20-%20Lecture/220327%20-%20Make%20Interpreter%20Rust%2C%20Week%201.pdf) [[Assignment]](./3%20-%20Assignment/220327%20-%20Make%20Interpreter%20Rust%2C%20Week%201)
   - A Tour of Rust, Part 1
   - Assignment #1
 - Week 2 (4/10)
