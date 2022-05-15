@@ -29,14 +29,14 @@
 - Week 2 (4/10) [[Lecture]](./1%20-%20Lecture/220410%20-%20Make%20Interpreter%20Rust%2C%20Week%202.pdf) [[Assignment]](./3%20-%20Assignment/220410%20-%20Make%20Interpreter%20Rust%2C%20Week%202) [[Solution]](./4%20-%20Solution/220410%20-%20Make%20Interpreter%20Rust%2C%20Week%202)
   - A Tour of Rust, Part 2
   - Assignment #2
-- Week 3 (5/15)
+- Week 3 (5/22)
   - Lexing
     - Lexical Analysis
     - Defining Tokens
     - The Lexer
     - Extensions
   - Assignment #3
-- Week 4 (5/22)
+- Week 4 (6/5)
   - Parsing
     - Parsers
     - Statements
