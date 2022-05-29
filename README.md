@@ -30,23 +30,27 @@
   - A Tour of Rust, Part 2
   - Assignment #2
 - Week 3 (5/22)
-  - Lexing
+  - Lexing, Part 1
     - Lexical Analysis
     - Defining Tokens
-    - The Lexer
+    - The Lexer, Part 1
+    - First REPL
+- Week 4 (6/5)
+  - Lexing, Part 2
+    - The Lexer, Part 2
     - Extensions
   - Assignment #3
-- Week 4 (6/5)
+- Week 5 (6/19)
   - Parsing
     - Parsers
     - Statements
   - Assignment #4    
-- Week 5 (TBA)
+- Week 6 (TBA)
   - Parsing
     - Expressions
     - Read-Parse-Print-Loop
   - Assignment #5
-- Week 6 (TBA)
+- Week 7 (TBA)
   - Evaluation
     - Giving Meaning to Symbols
     - Strategies of Evaluation
@@ -54,7 +58,7 @@
     - Representing Objects
     - Evaluating Expressions
   - Assignment #6
-- Week 7 (TBA)
+- Week 8 (TBA)
   - Evaluation
     - Conditionals
     - Return Statements
@@ -62,13 +66,13 @@
     - Bindings & The Environment
     - Functions & Function Calls
   - Assignment #7
-- Week 8 (TBA)
+- Week 9 (TBA)
   - Extensions
     - Data Types & Functions
     - Strings
     - Built-in Functions
   - Assignment #8
-- Week 9 (TBA)
+- Week 10 (TBA)
   - Extensions  
     - Array
     - Hashes
