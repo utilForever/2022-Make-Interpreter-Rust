@@ -29,13 +29,13 @@
 - Week 2 (4/10) [[Lecture]](./1%20-%20Lecture/220410%20-%20Make%20Interpreter%20Rust%2C%20Week%202.pdf) [[Assignment]](./3%20-%20Assignment/220410%20-%20Make%20Interpreter%20Rust%2C%20Week%202) [[Solution]](./4%20-%20Solution/220410%20-%20Make%20Interpreter%20Rust%2C%20Week%202)
   - A Tour of Rust, Part 2
   - Assignment #2
-- Week 3 (5/22)
+- Week 3 (5/22) [[Code]](./2%20-%20Code/220522%20-%20Make%20Interpreter%20Rust%2C%20Week%203)
   - Lexing, Part 1
     - Lexical Analysis
     - Defining Tokens
     - The Lexer, Part 1
     - First REPL
-- Week 4 (6/5)
+- Week 4 (6/5) [[Code]](./2%20-%20Code/220605%20-%20Make%20Interpreter%20Rust%2C%20Week%204)
   - Lexing, Part 2
     - The Lexer, Part 2
     - Extensions
