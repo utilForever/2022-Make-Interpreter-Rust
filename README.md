@@ -35,7 +35,7 @@
     - Defining Tokens
     - The Lexer, Part 1
     - First REPL
-- Week 4 (6/5) [[Code]](./2%20-%20Code/220605%20-%20Make%20Interpreter%20Rust%2C%20Week%204)
+- Week 4 (6/5) [[Code]](./2%20-%20Code/220605%20-%20Make%20Interpreter%20Rust%2C%20Week%204) [[Assignment]](./3%20-%20Assignment/220605%20-%20Make%20Interpreter%20Rust%2C%20Week%204)
   - Lexing, Part 2
     - The Lexer, Part 2
     - Extensions
@@ -44,7 +44,7 @@
   - Parsing
     - Parsers
     - Statements
-  - Assignment #4    
+  - Assignment #4
 - Week 6 (TBA)
   - Parsing
     - Expressions
