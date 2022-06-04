@@ -249,7 +249,6 @@ if (5 < 10) {
             Token::NotEqual,
             Token::Int(9),
             Token::Semicolon,
-            Token::Eof,
             Token::Int(10),
             Token::LessThanEqual,
             Token::Int(10),
@@ -258,6 +257,7 @@ if (5 < 10) {
             Token::GreaterThanEqual,
             Token::Int(10),
             Token::Semicolon,
+            Token::Eof,
         ];
 
         let mut lexer = Lexer::new(input);
