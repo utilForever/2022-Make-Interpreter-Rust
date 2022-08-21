@@ -113,6 +113,10 @@ impl<T> Cursor<'_, T> {
     pub fn take(&mut self) -> Option<T> {
         let curr_ptr = self.curr;
 
+        if curr_ptr.is_null() {
+            return None;
+        }
+
         unsafe {
             let next_node_ptr = (*curr_ptr).next;
             let prev_node_ptr = (*curr_ptr).prev;
@@ -457,6 +461,14 @@ fn cursor_prev_and_peek() {
         assert_eq!(prev, Some(n));
         assert_eq!(prev, cursor.peek_mut().cloned());
     }
+}
+
+#[test]
+fn cursor_take_with_empty_list() {
+    let mut list: LinkedList<i32> = LinkedList::new();
+
+    let mut cursor = list.cursor_front();
+    assert_eq!(cursor.take(), None);
 }
 
 // removes all elements starting from the middle
